@@ -4,7 +4,7 @@ Deep RL is a type of Machine Learning where an agent learns how to behave in an 
 
 We’ll train your Deep Reinforcement Learning agent, a lunar lander to land correctly on the Moon using Stable-Baselines3 , a Deep Reinforcement Learning library.
 
-![image](https://github.com/companyakis/deep-rl/assets/77589867/8b8ddf86-c3d5-4163-b33c-12c376449f69)
+![image](https://github.com/companyakis/deep-rl/assets/77589867/31358504-7dcd-47bc-9499-71dfd5eaca7c)
 
 We’ll upload this trained agent to the Hugging Face Hub, a free, open platform where people can share ML models, datasets, and demos.
 
